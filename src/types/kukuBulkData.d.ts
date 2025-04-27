@@ -15,6 +15,7 @@ export interface KukuBulkData {
 }
 
 export interface Episode {
+    description?: string;
     id?:                number;
     title?:             string;
     slug?:              string;
