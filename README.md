@@ -1,4 +1,4 @@
-# KukuFM Downloader
+# KukuFM Downloader (Personal Use Only)
 
 A command-line tool to download audio content from KukuFM for personal offline access. Supports batch downloads, custom cookies, and flexible configuration. Built with TypeScript for reliability and easy customization.
 
